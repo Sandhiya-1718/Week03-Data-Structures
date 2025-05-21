@@ -66,8 +66,6 @@ The repository is organized by each module. You will find related code examples,
 | Day 3   | [Sorting Algorithms](https://github.com/Sandhiya-1718/Week03-Data-Structures/tree/Day-3)                                      |
 | Day 4 & 5 | [Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader](https://github.com/Sandhiya-1718/Week03-Data-Structures/tree/Day-4-and-5) |
 | Day 6   | [Algorithm's Runtime Analysis & Big-O Notation](https://github.com/Sandhiya-1718/Week03-Data-Structures/tree/Day-6)          |
-| Practice| [Assisted + Self Problems](https://github.com/Sandhiya-1718/Week03-Data-Structures/tree/Practice)                                |
-
 
 ## ⏭️ Next Steps
 
