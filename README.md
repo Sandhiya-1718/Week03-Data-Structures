@@ -59,13 +59,15 @@ This week is focused on the foundational data structures in Java — starting fr
 
 The repository is organized by each module. You will find related code examples, notes, and assignments in their respective folders or branches. Explore the code to reinforce your understanding and practice.
 
-| Day        | Topic Description                                                  |
-|------------|---------------------------------------------------------------------|
-| Day 1      | [Data Structures Introduction and LinkedList](#day-1-data-structures-introduction-and-linkedlist) |
-| Day 2      | [Stack, Queue, HashMap, and Hashing](#day-2-stack-queue-hashmap-and-hashing)                       |
-| Day 3      | [Sorting Algorithms](#day-3-sorting-algorithms)                                                       |
-| Day 4 & 5  | [Searching Algorithms and File Handling](#day-4--5-searching-algorithms-and-file-handling)           |
-| Day 6      | [Algorithm’s Runtime Analysis and Big-O Notation](#day-6-algorithms-runtime-analysis-and-big-o-notation) |
+| Day     | Topic Description                                                                                                |
+|---------|------------------------------------------------------------------------------------------------------------------|
+| Day 1   | [Data Structure Introduction and LinkedList](https://github.com/Sandhiya-1718/Week03-Data-Structures/tree/Day-1)          |
+| Day 2   | [Stack, Queue, HashMap and Hashing Function](https://github.com/Sandhiya-1718/Week03-Data-Structures/tree/Day-2)           |
+| Day 3   | [Sorting Algorithms](https://github.com/Sandhiya-1718/Week03-Data-Structures/tree/Day-3)                                      |
+| Day 4 & 5 | [Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader](https://github.com/Sandhiya-1718/Week03-Data-Structures/tree/Day-4-and-5) |
+| Day 6   | [Algorithm's Runtime Analysis & Big-O Notation](https://github.com/Sandhiya-1718/Week03-Data-Structures/tree/Day-6)          |
+| Practice| [Assisted + Self Problems](https://github.com/Sandhiya-1718/Week03-Data-Structures/tree/Practice)                                |
+
 
 ## ⏭️ Next Steps
 
